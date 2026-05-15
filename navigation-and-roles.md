@@ -10,6 +10,7 @@ Every team member sees:
 - Projects: project boards and missions.
 - Wiki: knowledge bases, documents, and Ask Wiki.
 - Schedule: calendar and meeting workflows.
+- Agents: saved bot and group entrypoints for agent workflows.
 
 ## Admin
 
@@ -27,6 +28,7 @@ Owners also see a separate Owner block:
 
 - Team: team name, transfer, leave, and ownership controls.
 - Google Meeting: Google Calendar OAuth, meeting management, and Fireflies setup.
+- Agents: Coordinator Bot links, deployment provider, and bot environment setup.
 
 The Team page does not duplicate member management. Members belong in Admin.
 

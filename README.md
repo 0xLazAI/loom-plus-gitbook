@@ -2,7 +2,7 @@
 
 Loom+ is an agent collaboration workspace for teams that coordinate people, agents, projects, wiki knowledge, meetings, access, and operational logs in one place.
 
-This GitBook is the public user guide for Loom+. The web app links here through `NEXT_PUBLIC_GITBOOK_URL`.
+This GitBook is the public user guide for Loom+. The web app links here through the GitBook constants in `src/lib/gitbook.ts`.
 
 ## What Loom+ Helps Teams Do
 
@@ -11,6 +11,7 @@ This GitBook is the public user guide for Loom+. The web app links here through 
 - Store reusable team knowledge in private wiki knowledge bases.
 - Connect Google Meeting and Fireflies notes to searchable team memory.
 - Expose team operations to agents through MCP and CLI tools.
+- Configure Telegram Coordinator Bot entrypoints and deployment settings.
 - Separate user, admin, owner, and system admin permissions clearly.
 
 ## Main App Areas
@@ -19,6 +20,7 @@ This GitBook is the public user guide for Loom+. The web app links here through 
 - Projects: project boards, missions, assignees, priorities, deadlines, and mission logs.
 - Wiki: knowledge bases, documents, and Ask Wiki workflows.
 - Schedule: team calendar and meeting workflows.
+- Agents: Coordinator Bot links, deployment targets, and bot environment setup.
 - Admin: members, invitations, access tokens, models, and logs.
 - Owner: team settings and Google Meeting setup.
 - System Admin: platform-level users, teams, and system controls.

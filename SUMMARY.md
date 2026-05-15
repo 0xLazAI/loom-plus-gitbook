@@ -13,6 +13,7 @@
 
 ## Agent Tools
 
+* [Agent Bot Setup](agent-bot-setup.md)
 * [MCP/CLI Tools](mcp-cli-tools.md)
 * [loomcli Access](loomcli.md)
 
